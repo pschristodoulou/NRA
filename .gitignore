@@ -10,4 +10,4 @@ Thumbs.db
 
 # Ignore VSCode settings
 .vscode/
-Calcium_Imaging/data/*.tif
+Calcium_Imaging/data/
